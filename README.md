@@ -2,4 +2,5 @@
 
 ## Preview
 
-![To-Do App Screenshot](demo.png)
+![To-Do App Screenshot](Python/todolist/demo.png)
+
